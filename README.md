@@ -15,7 +15,8 @@ Esta web sirve como índice centralizado para explorarlos fácilmente.
 - `styles.css` – Estilos de la página.
   
 Puedes visitar la web publicada con **GitHub Pages** aquí:  
-👉 *https://tuusuario.github.io/turepo/* (actualiza con tu URL)
+
+👉 https://github.com/SANTONLA/Mis-modelos-de-ML
 
 ---
 

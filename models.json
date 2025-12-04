@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Regresión Lineal y REgresión logística",
+    "description": "Predicción de valores continuos mediante relaciones lineales entre variables.",
+    "github": "https://github.com/SANTONLA/08._ML-REGRESION-CLASSIFICATION/tree/main",
+    "tags": ["Regresión", "Supervised Learning", "Scikit-Learn"]
+  },
+  {
+    "name": "Árboles de Decisión",
+    "description": "Modelos interpretables utilizados tanto en clasificación como en regresión.",
+    "github": "https://github.com/SANTONLA/decision-tree",
+    "tags": ["Decision Trees", "Interpretabilidad", "ML"]
+  },
+  {
+    "name": "Bosques Aleatorios (Random Forest)",
+    "description": "Ensambles de árboles que mejoran la precisión y reducen el overfitting.",
+    "github": "https://github.com/SANTONLA/ARBOLES-DE-DECISION",
+    "tags": ["Ensemble Learning", "Random Forest", "Scikit-Learn"]
+  },
+  {
+    "name": "Máquinas de Vectores de Soporte (SVM)",
+    "description": "Clasificación basada en la separación óptima entre clases.",
+    "github": "https://github.com/SANTONLA/SVM-HOG",
+    "tags": ["SVM", "Clasificación", "Kernel Methods"]
+  },
+   {
+    "name": "Redes Neuronales Convolucionales (CNN)",
+    "description": "Modelo de deep learning especializado en el procesamiento de imágenes mediante convoluciones.",
+    "github": "https://github.com/SANTONLA/REDES-NEURONALES-CONVOLUCIONALES",
+    "tags": ["Deep Learning", "CNN", "Computer Vision"]
+  }
+]
+
